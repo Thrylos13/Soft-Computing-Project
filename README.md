@@ -8,10 +8,6 @@ Part 2 approaches it as classification (`MLPClassifier`), which fits better sinc
 
 ## Setup
 
-```
-pip install -r requirements.txt
-```
-
 Open either notebook in Jupyter, JupyterLab, or Colab. Both notebooks look for the
 `.xlsx` files in the same folder they're run from (`DATA_DIR = "."`), so no need to
 unzip anything unless you're working from an `archive.zip`, in which case just drop
